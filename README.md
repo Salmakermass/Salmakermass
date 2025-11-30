@@ -23,7 +23,6 @@
 
   <p>
     📧 E-Mail: <a href="mailto:salmakermass@gmail.com">anzeigen</a> ·
-    📞 Telefon: <a href="tel:+49 151 22244052">anzeigen</a>
   </p>
 
 </div>
