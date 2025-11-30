@@ -4,7 +4,7 @@
   <!-- Profilbild (optional – GitHub-Avatar wird automatisch angezeigt, wenn du willst kannst du hier ein eigenes Bild nehmen) -->
   <!-- <img src="DEIN_FOTO_LINK" alt="Profilbild von Salma" width="140" style="border-radius:50%"> -->
 
-  <h1>Salma Ait</h1>
+  <h1>Salma Kermass</h1>
 
   <h3>Masterstudentin Business IT/ Wirtschaftsinformatik
   <p>
